@@ -1,1 +1,1 @@
-print ("ezaz basha") 
+print ("hello world") 
